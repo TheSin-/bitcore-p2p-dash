@@ -52,7 +52,7 @@
     "url": "https://github.com/TheSin-/bitcore-p2p-terracoin.git"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "TheSin-/bitcore-build-terracoin",
+    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
