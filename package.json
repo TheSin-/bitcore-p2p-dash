@@ -49,16 +49,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheSin-/bitcore-p2p-terracoin.git"
+    "url": "https://github.com/terracoin/bitcore-p2p-terracoin.git"
   },
   "dependencies": {
-    "bitcore-lib-terracoin": "TheSin-/bitcore-lib-terracoin",
+    "bitcore-lib-terracoin": "^0.15.2",
     "bloom-filter": "^0.2.0",
     "node-buffers": "^0.1.1",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "bitcore-build-terracoin": "TheSin-/bitcore-build-terracoin",
+    "bitcore-build-terracoin": "terracoin/bitcore-build-terracoin",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",

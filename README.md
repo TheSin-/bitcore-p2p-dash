@@ -2,12 +2,12 @@ Bitcore P2P-Terracoin
 =======
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-p2p-terracoin.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-p2p-terracoin)
-[![Build Status](https://img.shields.io/travis/TheSin-/bitcore-p2p-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/TheSin-/bitcore-p2p-terracoin)
-[![Coverage Status](https://img.shields.io/coveralls/TheSin-/bitcore-p2p-terracoin.svg?style=flat-square)](https://coveralls.io/r/TheSin-/bitcore-p2p-terracoin?branch=master)
+[![Build Status](https://img.shields.io/travis/terracoin/bitcore-p2p-terracoin.svg?branch=master&style=flat-square)](https://travis-ci.org/terracoin/bitcore-p2p-terracoin)
+[![Coverage Status](https://img.shields.io/coveralls/terracoin/bitcore-p2p-terracoin.svg?style=flat-square)](https://coveralls.io/r/terracoin/bitcore-p2p-terracoin?branch=master)
 
 `bitcore-p2p-terracoin` adds Terracoin protocol support for Bitcore-Terracoin.
 
-See [the main bitcore-terracoin repo](https://github.com/TheSin-/bitcore-terracoin) for more information.
+See [the main bitcore-terracoin repo](https://github.com/terracoin/bitcore-terracoin) for more information.
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/TheSin-/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/terracoin/bitcore-terracoin/blob/master/CONTRIBUTING.md) on the main bitcore-terracoin repo for information about how to contribute.
 
 ## License
 
